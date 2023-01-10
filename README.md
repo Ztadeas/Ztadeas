@@ -47,6 +47,14 @@ You can click the Preview link to take a look at your changes.
 <img align="left" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img align="left" width="10%" src="https://raw.githubusercontent.com/librosa/librosa/main/docs/img/librosa_logo_text.svg" />
 
+\
+\
+\____________________________________________________________________________________________________________________________________________________
+
+# Databases
+
+<img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 
 
