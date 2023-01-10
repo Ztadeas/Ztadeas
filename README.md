@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
 <img align="left" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img align="left" src="https://raw.githubusercontent.com/librosa/librosa/main/docs/img/librosa_logo_text.svg" />
+<img align="left" width="10%" src="https://raw.githubusercontent.com/librosa/librosa/main/docs/img/librosa_logo_text.svg" />
 
 
 
