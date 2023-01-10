@@ -79,6 +79,14 @@ Music21
 
 Beautiful Soup
 
+\
+\
+\_________________________________________________________________________________________________________________________________________________
+
+# Accomplishments
+
+3rd place at final conference in project of https://www.avcr.cz/cs/ while I was <strong>intern</strong> at http://www.utia.cas.cz/cs in field of Formal and Earth science, with this application 
+
 
 
 
