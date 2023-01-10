@@ -73,7 +73,9 @@ You can click the Preview link to take a look at your changes.
 # Python Libraries
 
 <img align="left" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+<img align="left" src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/DxD1hLgUwAAo-Od.jpg?fit=375%2C422&ssl=1" />
+<p> align="left" Music21</p>
+<p> align="left" Beautiful Soup</p>
 
 
 
