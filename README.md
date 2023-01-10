@@ -46,6 +46,9 @@ You can click the Preview link to take a look at your changes.
 <img align="left" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
 <img align="left" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img align="left" width="10%" src="https://raw.githubusercontent.com/librosa/librosa/main/docs/img/librosa_logo_text.svg" />
+\
+\____________________________________________________________________________________________________________________________________________________
+<img align="left"  src="https://camo.githubusercontent.com/0af679e0f4bfdd38ebbf1065bfe04f8f4e23cafff24df48b9883bbbb9413ff08/687474703a2f2f726172652d746563686e6f6c6f676965732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30322f726172655f696d6167655f6f6e6c792e706e67)" />
 
 \
 \
@@ -55,6 +58,16 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+\
+\
+\____________________________________________________________________________________________________________________________________________________
+
+# Python Libraries
+
+<img align="left" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+
 
 
 
