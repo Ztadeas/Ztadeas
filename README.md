@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 \
 \____________________________________________________________________________________________________________________________________________________
 
-# ML/DL and data science libraries
+# ML/DL and Data science Frameworks
 
 
 
