@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Ztadeas 17 years old student from Prague.  
-- 👀 I’m interested in Deep Learning, ML algorithms and statistics.
+- 👀 I’m interested in Deep Learning, ML algorithms, data science
+and statistics.
 - 📫 How to reach me? zikatadeas@gmail.com  Feel free to contact me.
 
 <!---
