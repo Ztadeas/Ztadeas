@@ -85,7 +85,11 @@ Beautiful Soup
 
 # Accomplishments
 
-3rd place in field of Formal and Earth science at final conference in project of https://www.avcr.cz/cs/ for highschoolers, while I was <strong>intern</strong> at http://www.utia.cas.cz/cs, with this application: https://github.com/Ztadeas/League-of-Legends-win-probability
+3rd place in field of Formal and Earth science at final conference in project of https://www.avcr.cz/cs/ for highschoolers, while I was <strong>intern</strong> at http://www.utia.cas.cz/cs. 
+
+
+
+<strong>With this application</strong>: https://github.com/Ztadeas/League-of-Legends-win-probability
 
 
 
