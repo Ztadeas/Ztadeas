@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Tadeáš Zíka 17 years old student from Prague.  
+# 👋 Hi, I’m Tadeáš.
+- Studying at https://www.ssps.cz/.
 - 👀 I’m interested in Deep Learning, ML algorithms, data science
 and statistics.
 - 📫 How to reach me? zikatadeas@gmail.com  Feel free to contact me.
