@@ -3,7 +3,7 @@
 - 👀 I’m interested in Deep Learning, ML algorithms, data science
 and statistics.
 - 📫 How to reach me? zikatadeas@gmail.com  Feel free to contact me.
-- 🌐 Website for generating music, that I made: http://www.trnkacomposer.xyz/.
+- 🌐 Website for generating music, that me and https://github.com/roboriba/ made: http://www.trnkacomposer.xyz/. 
 
 <!---
 Ztadeas/Ztadeas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
