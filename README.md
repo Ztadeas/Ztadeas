@@ -9,9 +9,9 @@ and statistics.
 Ztadeas/Ztadeas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img align="left" width="47%" src="https://raw.githubusercontent.com/Ztadeas/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+<img align="left" width="47%" src="https://raw.githubusercontent.com/Ztadeas/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
 
-<img align="left" width="47%" src="https://raw.githubusercontent.com/Ztadeas/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+<img align="left" width="47%" src="https://raw.githubusercontent.com/Ztadeas/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
 
 
 \
